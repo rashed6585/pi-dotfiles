@@ -1,0 +1,7 @@
+{
+    "theme": "github-dark-default",
+    "extensions": [
+        "./extensions/flow-title.ts",
+        "./extensions/pi-workspace-init.ts"
+    ]
+}
